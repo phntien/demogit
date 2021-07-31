@@ -5,6 +5,6 @@ public class DemoEmpty {
         System.out.println("Hello world!");
         System.out.println("Xin Chao!");
         System.out.println("Hi!");
-        System.out.println("SrouceTree");
+        System.out.println("SrouceTree + Update in IntelliJ");
     }
 }
