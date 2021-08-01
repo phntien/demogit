@@ -8,6 +8,7 @@ public class DemoEmpty {
         System.out.println("SrouceTree + ABCDE");
         System.out.println("SrouceTree + Update from GitHub 2 + IntelliJ 3 + Github 3");
         System.out.println("SrouceTree + Update from GitHub 2 + IntelliJ 4 + Github 4");
-        System.out.println("Master branch");
+        System.out.println("Master branch + ABC");
+        System.out.println("Co tinh tao conflit");
     }
 }
