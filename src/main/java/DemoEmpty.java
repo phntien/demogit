@@ -10,5 +10,6 @@ public class DemoEmpty {
         System.out.println("SrouceTree + Update from GitHub 2 + IntelliJ 4 + Github 4");
         System.out.println("Master branch + ABC");
         System.out.println("Co tinh tao conflit");
+        System.out.println("Master branch + Co tinh tao conflict");
     }
 }
